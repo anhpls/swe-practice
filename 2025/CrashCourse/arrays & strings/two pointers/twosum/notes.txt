@@ -1,0 +1,4 @@
+recursion: function that calls itself; every iterative function can be written as recursive function
+
+base cases are conditions at the start of recursive functions to terminate the calls
+
